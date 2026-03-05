@@ -1,16 +1,23 @@
-## Hi there 👋
+<pre style="font-family: monospace; font-size:12px; line-height:0.92; text-align:center;">
+ ___       ___  ___       ________  ________  ________   ___       ___  ________    _____     
+|\  \     |\  \|\  \     |\   ___ \|\   __  \|\   ___  \|\  \     |\  \|\   ___ \  / __  \    
+\ \  \    \ \  \ \  \    \ \  \_|\ \ \  \|\  \ \  \\ \  \ \  \    \ \  \ \  \_|\ \|\/_|\  \   
+ \ \  \    \ \  \ \  \    \ \  \ \\ \ \   __  \ \  \\ \  \ \  \    \ \  \ \  \ \\ \|/ \ \  \  
+  \ \  \____\ \  \ \  \____\ \  \_\\ \ \  \ \  \ \  \\ \  \ \  \____\ \  \ \  \_\\ \   \ \  \ 
+   \ \_______\ \__\ \_______\ \_______\ \__\ \__\ \__\\ \__\ \_______\ \__\ \_______\   \ \__\
+    \|_______|\|__|\|_______|\|_______|\|__|\|__|\|__| \|__|\|_______|\|__|\|_______|    \|__|
+</pre>
 
-<!--
-**lildanlid1/lildanlid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=lildanlid&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Socials
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/lildanlid)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lildanlid)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lildanlid)  [![Xbox](https://img.shields.io/badge/Xbox-107C10.svg?logo=Xbox&logoColor=white)](https://www.xbox.com/play/user/lildanlid)  [![PlayStation](https://img.shields.io/badge/PlayStation-003791.svg?logo=PlayStation&logoColor=white)](https://www.playstation.com/)  [![Website](https://img.shields.io/badge/Website-4285F4.svg?logo=Google-Chrome&logoColor=white)](https://lildanlid.github.io)
+
+---
+
+## 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
